@@ -23,7 +23,7 @@ User Story #5: When my markdown previewer first loads, the default text in the #
 User Story #6: When my markdown previewer first loads, the default markdown in the #editor field should be rendered as HTML in the #preview element.
 
 
-###Further information
+### Further information
 
 For further information on freeCodeCamp Front End Development Libraries course see https://www.freecodecamp.org/learn/front-end-development-libraries/.
 
