@@ -3,11 +3,12 @@ import Header from "./Header.jsx"
 import Markdown from 'marked-react';
 
 function Previewer(props) {
-    const {content} = props
+
+    const {content, display, handleDisplay} = props
 
     return (
         <div className="container container--previewer">
-            <Header title="Previewer" />
+            <Header title="Previewer" name="previewer" display={display} handleDisplay={handleDisplay} />
             <div id="preview">
                 <Markdown 
                     value={content}
@@ -19,7 +20,6 @@ function Previewer(props) {
             </div>
         </div>
     )
-
 }
 
 export default Previewer
