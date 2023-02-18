@@ -29,7 +29,7 @@ function Editor(props) {
     }
 
     return (
-        <div className="container container--editor" style={stylesContainer}>
+        <div className="container" style={stylesContainer}>
             <Header 
                 title="Editor" 
                 name="editor" 
