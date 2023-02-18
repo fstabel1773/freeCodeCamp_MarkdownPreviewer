@@ -4,7 +4,7 @@ This repo contains the second of five required solo projects from freeCodeCamp F
 It is a Markdwon-Previewer built on my own from scratch according to user stories (see below). 
 The app uses react-framework and vite as bundler. 
 
-Markdown-Previewer-App live demo available: *coming soon*.
+Markdown-Previewer-App live demo available: [*coming soon*](https://app.netlify.com/sites/adorable-croquembouche-1c0e1b/overview).
 
 
 Note: There is a testscript from freeCodeCamp included confimring fullfilling of user stories.
@@ -27,4 +27,4 @@ User Story #6: When my markdown previewer first loads, the default markdown in t
 
 For further information on freeCodeCamp Front End Development Libraries course see https://www.freecodecamp.org/learn/front-end-development-libraries/.
 
-For project requirements see: https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator
+For project requirements see: https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer
