@@ -4,7 +4,7 @@ This repo contains the second of five required solo projects from freeCodeCamp F
 It is a Markdwon-Previewer built on my own from scratch according to user stories (see below). 
 The app uses react-framework and vite as bundler. 
 
-Markdown-Previewer-App live demo available: [*coming soon*](https://app.netlify.com/sites/adorable-croquembouche-1c0e1b/overview).
+Markdown-Previewer-App live demo available: https://app.netlify.com/sites/adorable-croquembouche-1c0e1b/overview.
 
 
 Note: There is a testscript from freeCodeCamp included confimring fullfilling of user stories.
